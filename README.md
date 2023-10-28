@@ -4,7 +4,7 @@ An ascii image représentation using C#
 You can run the code by adding the package : System.Drawing.Common ( This works with Dotnet 6.0 ) 
 
 
-The image below was created using mspaint with hello in the center and orders
+The image below was created using mspaint with hello in the center and borders
 
 ![img](https://user-images.githubusercontent.com/36489857/211924846-0744bf33-321e-4428-8011-5398a1ba7e56.png)
 
